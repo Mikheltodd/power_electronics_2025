@@ -3,3 +3,5 @@
 
 
 - [Modulo 1: Diodos](Module%201%20Diodes/module_1_info.md)
+
+Actualizado
