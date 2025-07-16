@@ -8,7 +8,6 @@ Redactó: Miguel Ortiz
 
 
 
-!\[Simulación 1](/images/simulation\_1.png)
-
+![Simulación 1](images/simulation.png)
 
 
