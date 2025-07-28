@@ -5,19 +5,30 @@
 Redactó: Miguel Ortiz
 ---
 # Index
----
 
-- [Section 1](#section-1)
-- [Section 2](#section-2)
+- [Section 1](#theory)
+- [Section 2: Simulations](#simulations)
 
+
+
+
+
+
+
+
+
+
+
+
+## Theory
+
+.............
+
+## Simulations
 
 ![Simulación 1](./images/simulation_1.png)
-
-
-## Section 1
-
 .............
 
-## Section 2
+## Lab
 
-.............
+.....
