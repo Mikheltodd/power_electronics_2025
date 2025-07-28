@@ -26,7 +26,7 @@ Redactó: Miguel Ortiz
 
 ## Simulations
 
-![Simulación 1](./images/simulation_1.png)
+![image](/simulation_files/image.png)
 .............
 
 ## Lab
